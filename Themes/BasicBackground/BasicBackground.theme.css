@@ -13,7 +13,7 @@
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;		/* font used in most places														*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/background.jpg);	/* general background image						*/
+	--background:					url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Ftanjiro-kamado&psig=AOvVaw2za33GJ3fO-2MPLnEy-SPi&ust=1591672625721000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCu1t6g8ekCFQAAAAAdAAAAABAD);	/* general background image						*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of general background - values: [cover/contain/auto])					*/
 	--backgroundblur:				0px;						/* default: 0px					(only works when --background is set to an image)								*/
 	
